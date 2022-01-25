@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @deepestcarpet.
-- 👀 I’m interested in. Maybe out, actually.
-- 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate on GitHub.
-- 📫 You can reach me using your arms. They will probably reach.
